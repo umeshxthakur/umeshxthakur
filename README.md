@@ -1,6 +1,6 @@
 - 👋 Hi, I’m umeshxthakur
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning HTML CSS JS
+- 👀 I’m interested in Quality Assurance 
+- 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me : umeshthakur999@gmail.com
 
 <!---
